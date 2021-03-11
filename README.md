@@ -3,7 +3,7 @@ This project shows Breaking Bad character informations in cards.
  - Dynamic Search Bar
  - Hover Card Effect
  
- ![Breaking_Bad_App](![Covid-19 Tracker](https://media.giphy.com/media/hqLngoyRlyyZ0zJOgD/giphy.gif))
+ ![Breaking_Bad_App](https://media.giphy.com/media/0PZwIMY9HrWBsvMxAl/giphy.gif)
 
 ## Installing and Running the App
  - git clone https://github.com/citakilkay/breakingbad-app.git
