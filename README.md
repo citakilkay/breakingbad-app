@@ -18,4 +18,4 @@ This project shows Breaking Bad character informations in cards.
  - Boostrap
  - Breaking Bad Api
 
-LICENSE:MIT
+LICENSE:MIT 
