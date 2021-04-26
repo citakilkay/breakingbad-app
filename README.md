@@ -3,7 +3,8 @@ This project shows Breaking Bad character informations in cards.
  - Dynamic Search Bar
  - Hover Card Effect
  
- ![Breaking_Bad_App](https://media.giphy.com/media/0PZwIMY9HrWBsvMxAl/giphy.gif)
+ ## Live:
+ https://breakingbad-cards.netlify.app/
 
 ## Installing and Running the App
  - git clone https://github.com/citakilkay/breakingbad-app.git
